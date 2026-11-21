@@ -1,0 +1,39 @@
+produto,id,versao,preco
+"iPhone 18 Pro Max (Lacrado)",lac-iphone-18-pro-max,"256GB","R$ 9.499,99"
+"iPhone 18 Pro (Lacrado)",lac-iphone-18-pro,"256GB","R$ 8.899,99"
+"iPhone 17 Pro Max (Lacrado)",lac-iphone-17-pro-max,"256GB","R$ 7.749,99"
+"iPhone 17 Pro (Lacrado)",lac-iphone-17-pro,"256GB","R$ 7.399,99"
+"iPhone 17 (Lacrado)",lac-iphone-17,"256GB","R$ 6.149,99"
+"iPhone 16 Pro (Lacrado)",lac-iphone-16-pro,"128GB","R$ 5.299,99"
+"iPhone 16 (Lacrado)",lac-iphone-16,"128GB","R$ 4.699,99"
+"iPhone 15 (Lacrado)",lac-iphone-15,"128GB","R$ 4.199,99"
+"iPhone 17 Pro Max (Seminovo)",semi-iphone-17-pro-max,"256GB","R$ 6.999,99"
+"iPhone 17 Pro (Seminovo)",semi-iphone-17-pro,"256GB","R$ 6.499,99"
+"iPhone 17 (Seminovo)",semi-iphone-17,"256GB","R$ 5.099,99"
+"iPhone 16 Pro Max (Seminovo)",semi-iphone-16-pro-max,"256GB","R$ 5.690,00"
+"iPhone 16 Pro (Seminovo)",semi-iphone-16-pro,"128GB","R$ 4.699,99"
+"iPhone 16 (Seminovo)",semi-iphone-16,"128GB","R$ 3.999,99"
+"iPhone 15 Pro Max (Seminovo)",semi-iphone-15-pro-max,"256GB","R$ 4.679,99"
+"iPhone 15 Pro (Seminovo)",semi-iphone-15-pro,"128GB","R$ 3.799,99"
+"iPhone 15 (Seminovo)",semi-iphone-15,"128GB","R$ 2.999,99"
+"iPhone 14 Pro Max (Seminovo)",semi-iphone-14-pro-max,"128GB","R$ 3.499,99"
+"iPhone 14 Pro (Seminovo)",semi-iphone-14-pro,"128GB","R$ 2.999,99"
+"iPhone 12 Pro (Seminovo)",semi-iphone-12-pro,"128GB","R$ 2.249,99"
+"iPhone 12 (Seminovo)",semi-iphone-12,"64GB","R$ 1.699,99"
+"iPhone 12 (Seminovo)",semi-iphone-12,"128GB","R$ 1.999,99"
+"iPhone 11 (Seminovo)",semi-iphone-11,"64GB","R$ 1.299,99"
+"iPhone 11 (Seminovo)",semi-iphone-11,"128GB","R$ 1.549,99"
+"iPhone XR (Seminovo)",semi-iphone-xr,"64GB","R$ 999,99"
+"iPhone XR (Seminovo)",semi-iphone-xr,"128GB","R$ 1.249,99"
+"MacBook Air M4 (Lacrado)",macbook-air-m4,"13""",
+"MacBook Air M4 (Lacrado)",macbook-air-m4,"15""",
+"MacBook Pro (Lacrado)",macbook-pro,"14""",
+"MacBook Pro (Lacrado)",macbook-pro,"16""",
+"iPad (Lacrado)",ipad,"iPad",
+"iPad (Lacrado)",ipad,"iPad Air",
+"iPad (Lacrado)",ipad,"iPad Pro",
+"Apple Watch (Lacrado)",apple-watch,"SE",
+"Apple Watch (Lacrado)",apple-watch,"Series",
+"Apple Watch (Lacrado)",apple-watch,"Ultra",
+"AirPods (Lacrado)",airpods,"AirPods 4",
+"AirPods (Lacrado)",airpods,"AirPods Pro",
